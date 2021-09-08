@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(143, 61, 109);
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.friend {
+    background-color: crimson;
+}
+
+.friend p {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.friend h3 {
+    text-align: center;
+}
